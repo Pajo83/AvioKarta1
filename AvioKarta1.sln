@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvioKarta1", "AvioKarta1\AvioKarta1.csproj", "{66C31D27-232E-4A2B-9C17-3D11543ADFFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66C31D27-232E-4A2B-9C17-3D11543ADFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C31D27-232E-4A2B-9C17-3D11543ADFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C31D27-232E-4A2B-9C17-3D11543ADFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C31D27-232E-4A2B-9C17-3D11543ADFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4681E095-7E4E-4430-AB7D-C8F940DA1A84}
+	EndGlobalSection
+EndGlobal
